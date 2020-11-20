@@ -11,9 +11,9 @@ title                    : "Debing Wei / Wireless Engineer"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://debing-wei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "debing-wei/debing-wei.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Debing Wei"
-  avatar           : "profile.png"
+  avatar           : "myprofile.jpg"
   bio              : "Ph.D. Candidate in the Department of Electrical and Computer Engneering at the University of Houston"
   location         : "Houston"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "debing-wei"
   google_plus      :
   keybase          :
   instagram        :
