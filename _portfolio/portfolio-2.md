@@ -4,4 +4,4 @@ excerpt: "Stress wave testbed + OFDM + PSK <br/><img src='/images/StressWave.png
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This work is part of the NSF project, [NeTS: Medium: Collaborative Research: Riding the Stress Wave: Integrated Monitoring, Communications, and Networking for Subsea Infrastructure (CNS-1801925)] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=1801925). 
