@@ -19,6 +19,5 @@ Other than EM waves, acoustic waves can propagate much further (hundreds of km) 
 
 We can safely assume that not a single wireless communication technology can fulfill different communication requirements of various underwater applications. Nevertheless, underwater hybrid networking may provide a good solution. Therefore I am also working on combining different kinds of underwater wireless communication technologies (e.g. acoustic, MI, stress wave, optics, etc.) to support different IoUT applications.
 
-Getting started
-======
+
 

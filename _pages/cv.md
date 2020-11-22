@@ -65,6 +65,8 @@ Areas of Expertise
   * Digital Filter (IIR, FIR)
   * Matrix Analysis (SVD, PCA)
   * Stastics (Mean, Variance, Correlation)
+
+  
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
