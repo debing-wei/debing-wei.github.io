@@ -47,7 +47,7 @@ Skills
   * English
   * Chinese
 
-Areas of Expertise
+Areas of expertise
 ======
 * Wireless Communications
   * PHY/MAC: Modulation, Pulse Shaping, Synchronization, Equalization, Channel Coding

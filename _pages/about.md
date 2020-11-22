@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Hi there, I'm Debing Wei from [C<sup>3</sup>L@B UH](https://panlab.ece.uh.edu/) 👋
+📱 860-771-0567 &emsp; ✉️ wei.debing@gmail.com <br />
+🏠 5805 Gulfton St, Apt #2844，Houston, TX 77081
+
 As a Ph.D. candidate in electrical and computer engineering, I have dedicated myself to research wireless data and power transfer technologies for extreme environments (e.g. underwater and underground) where traditional communication technologies barely work. By manipulating different kinds of physical waves (e.g. EM wave, acoustic wave, etc.)  in different propagation mediums, my dream is to connect every corner of the world wirelessly. 
 <br />
 
