@@ -11,38 +11,67 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, North China Electric Power University, 2008
+* M.S. in ELectrical Engineering, North China ELectric Power University, 2011
+* Ph.D in Electrical and Computer Engineering, University of Houston, May 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2016 -- present: Research Assistant
+  * University of Houston
+  * Underwater MI wireless communications (MI channel modeling, testbed establishment, coil antenna design, simulation and field tests)
+  * Stress wave communication through pipelines(Stress wave channel modeling, testbed establishment, deploy different modulation schemes (OFDM, PSK, FSK))
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr. 2011 -- July 2014: Embedded System Engineer
+  * Baoding Sifang Sanyi Electric Co., Ltd.
+  * Main circuit design (circuit topology, MOSFET/IGBT part selection, gate driver, heat dissipation) for different power electronic
+devices (e.g. PV inverter, APF, DC/DC converter)
+  * Control algorithms (PWM, PID) design to fulfill the performance requirements of different power electronic devices
+  * Embedded real‑time coding for the control algorithm deployment on DSP/FPGA and subsequently verify the system performances on real‑time simulation environments as well as through field tests.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Softwave
+  * Verilog, Matlab, Python,  C
+  * Bash, Git, LaTex
+  * VSCode, Anaconda, Jupyter Notebook, Gurobi
+* Hardware
+  * DSP, FPGA, Raspberry Pi
+  * SCI (UART), SPI, I<sup>2</sup>C
+  * OrCAD, Altium Designer
+  * Oscillascope, Signal Generator, Impedance Analyzer
+* Simulation
+  * Matlab/Simulink
+  * RTDS
+* Language
+  * English
+  * Chinese
 
-Publications
+Areas of Expertise
+======
+* Wireless Communications
+  * PHY/MAC: Modulation, Pulse Shaping, Synchronization, Equalization, Channel Coding
+  * SDR, USRP
+  * 802.11, Bluetooth, Zigbee
+  * Internet of Things (IoT)
+* Power ELectronics
+  * Electric Power Conversion (DC/DC, DC/AC, AC/DC), PWM (SVPWM, Deadbeat)
+  * Wireless Power Transfer
+  * Green Energy (PV Inverter)
+  * Power Quality Control (APF, SVG) 
+  * Smart grid, Microgrid
+* Digital Signal Processing
+  * Fourier Transform
+  * Digital Filter (IIR, FIR)
+  * Matrix Analysis (SVD, PCA)
+  * Stastics (Mean, Variance, Correlation)
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +81,19 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for Journals
+  * Journal of Communications and Networks
+  * IEEE Communications Magazine
+  * IEEE Transactions on Vehicular Technology  
+  * IEEE Transactions on Green Communications and Networking
+  * Sensors
+  * Applied Sciences
+* Reviewer for Conferences
+  * IEEE Global Communication Conference (GLOBECOM)
+  * International Conference on Underwater Networks & Systems (WUWNet)
+  * EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services
+  * IEEE Sarnoff Symposium
