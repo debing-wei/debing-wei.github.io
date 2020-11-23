@@ -13,7 +13,7 @@ redirect_from:
 ====== -->
 * B.S. in Electrical Engineering, North China Electric Power University, 2008
 * M.S. in ELectrical Engineering, North China ELectric Power University, 2011
-* Ph.D in Electrical and Computer Engineering, University of Houston, May 2021 (expected)
+* Ph.D. in Electrical and Computer Engineering, University of Houston, May 2021 (expected)
 
 Work experience
 ======
