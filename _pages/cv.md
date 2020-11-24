@@ -39,9 +39,10 @@ Skills
   * DSP, FPGA, Raspberry Pi
   * SCI (UART), SPI, I<sup>2</sup>C
   * OrCAD, Altium Designer
-  * Oscillascope, Signal Generator, Impedance Analyzer
+  * Oscillascope, Signal Generator, Impedance Analyzer, etc.
 * Simulation
   * Matlab/Simulink
+  * COMSOL 
   * RTDS
 * Language
   * English
