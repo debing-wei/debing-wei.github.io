@@ -17,22 +17,19 @@ redirect_from:
 
 Work experience
 ======
-* July 2016 -- present: Research Assistant
-  * University of Houston
+* July 2016 -- present: Research Assistant (University of Houston)
   * Underwater MI wireless communications (MI channel modeling, testbed establishment, coil antenna design, simulation and field tests)
   * Stress wave communication through pipelines(Stress wave channel modeling, testbed establishment, deploy different modulation schemes (OFDM, PSK, FSK))
 
-* Apr. 2011 -- July 2014: Embedded System Engineer
-  * Baoding Sifang Sanyi Electric Co., Ltd.
-  * Main circuit design (circuit topology, MOSFET/IGBT part selection, gate driver, heat dissipation) for different power electronic
-devices (e.g. PV inverter, APF, DC/DC converter)
+* Apr. 2011 -- July 2014: Embedded System Engineer (Baoding Sifang Sanyi Electric Co., Ltd.) 
+  * Main circuit design (circuit topology, MOSFET/IGBT part selection, gate driver, heat dissipation) for different power electronic devices (e.g. PV inverter, APF, DC/DC converter)
   * Control algorithms (PWM, PID) design to fulfill the performance requirements of different power electronic devices
   * Embedded real‑time coding for the control algorithm deployment on DSP/FPGA and subsequently verify the system performances on real‑time simulation environments as well as through field tests.
   
 Skills
 ======
 * Softwave
-  * Verilog, Matlab, Python,  C
+  * Verilog, Matlab, Python, C
   * Bash, Git, LaTex
   * VSCode, Anaconda, Jupyter Notebook, Gurobi
 * Hardware
