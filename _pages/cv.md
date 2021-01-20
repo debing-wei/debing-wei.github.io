@@ -88,6 +88,7 @@ Service
 * Reviewer for Journals
   * Journal of Communications and Networks
   * IEEE Communications Magazine
+  * IEEE Internet of Things Journal
   * IEEE Transactions on Vehicular Technology  
   * IEEE Transactions on Green Communications and Networking
   * Sensors
