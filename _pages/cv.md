@@ -62,8 +62,8 @@ Areas of expertise
 * Digital Signal Processing
   * Fourier Transform
   * Digital Filter (IIR, FIR)
-  * Matrix Analysis (SVD, PCA)
-  * Stastics (Mean, Variance, Correlation)
+  * Matrix Analysis 
+  * Stastics 
 
   
 <!-- Publications
