@@ -49,6 +49,7 @@ Areas of expertise
 ======
 * Wireless Communications
   * PHY/MAC: Modulation, Pulse Shaping, Synchronization, Equalization, Channel Coding
+  * 5G NR, LTE
   * SDR, USRP
   * 802.11, Bluetooth, Zigbee
   * Internet of Things (IoT)
