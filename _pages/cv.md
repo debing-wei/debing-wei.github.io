@@ -48,7 +48,7 @@ Skills
 Areas of expertise
 ======
 * Wireless Communications
-  * PHY/MAC: Modulation, Pulse Shaping, Synchronization, Equalization, Channel Coding
+  * PHY/MAC: Modulation, Pulse Shaping, Synchronization, Equalization, Channel Coding, MIMO
   * 5G NR, LTE
   * SDR, USRP
   * 802.11, Bluetooth, Zigbee
@@ -63,7 +63,7 @@ Areas of expertise
   * Fourier Transform
   * Digital Filter (IIR, FIR)
   * Matrix Analysis 
-  * Stastics 
+  * Statistics 
 
   
 <!-- Publications
